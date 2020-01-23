@@ -1,0 +1,18 @@
+.jumbo{
+    background-color: #282C34;
+}
+
+.bg-image{
+    background-image: url('bg.svg');
+    background-repeat: no-repeat;
+    width: 50%;
+
+}
+
+.darko{
+    background-color: #20232A !important;
+}
+
+.btn-primary{
+    background-color: #20232A !important;
+}
