@@ -67,7 +67,7 @@ const Reactstrap = (props) => {
                     <h2 className='text-white mt-4'>The most popular front-end framework</h2>
                     <h2 className='text-white'>Rebuilt for React.</h2>
                     <Button className='mr-3 mt-2' size="lg" outline color="info">Get Started</Button>
-                    <Button size="lg" outline color="info">Components</Button>
+                    <Button className='mr-3 mt-2' size="lg" outline color="info">Components</Button>
                     <p className='text-white mt-2'>Current version: 1.0.0-beta.16</p>
                 </Col>
             </Row>
